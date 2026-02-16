@@ -500,7 +500,7 @@
 
         <!-- Header -->
         <div class="header">
-            <h1>hioka violet</h1>
+            <h1>hioka vless</h1>
             <div class="status-badge">
                 <span class="status-dot"></span>
                 СЕРВЕРЫ ACTIVE
